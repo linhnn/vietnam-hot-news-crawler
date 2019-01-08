@@ -1,4 +1,4 @@
-<a href="https://nhaphobietthuquan2.com/doc-bao-hom-nay/" target="blank">Đọc Báo Hôm Nay</a> <br/>
+<a href="https://nhaphobietthuquan2.com/doc-bao-hom-nay/" target="_blank">Đọc Báo Hôm Nay</a> <br/>
 **VietNam Hot News Crawler (Tổng hợp tin tức hot từ báo mạng Việt Nam):**
  - [Tuổi Trẻ](http://tuoitre.vn){:target="_blank"}
  - [Thanh Niên](http://thanhnien.vn){:target="_blank"}
