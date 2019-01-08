@@ -20,5 +20,5 @@
  - [Xe Hay](https://xehay.vn)
  - [ICT News](https://ictnews.vn)
 
-Cập nhật toàn bộ tin tức mỗi  30 phút, viết bằng GoLang.<br/>
+Cập nhật toàn bộ tin tức mỗi  30 phút, sử dụng GoLang.<br/>
 linhvt22@gmail.com
