@@ -1,5 +1,4 @@
-[Đọc Báo Hôm Nay](https://nhaphobietthuquan2.com/doc-bao-hom-nay/) <br/>
-**VietNam Hot News Crawler (Tổng hợp tin tức hot từ báo mạng Việt Nam):**
+# VietNam Hot News Crawler (Tổng hợp tin tức hot từ báo mạng Việt Nam)
  - [Tuổi Trẻ](http://tuoitre.vn)
  - [Thanh Niên](http://thanhnien.vn)
  - [Tiền Phong](https://tienphong.vn)
@@ -20,5 +19,6 @@
  - [Xe Hay](https://xehay.vn)
  - [ICT News](https://ictnews.vn)
 
+[Đọc Báo Hôm Nay](https://nhaphobietthuquan2.com/doc-bao-hom-nay/) <br/>
 Cập nhật toàn bộ tin tức mỗi  30 phút, sử dụng GoLang.<br/>
 linhvt22@gmail.com
