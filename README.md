@@ -1,4 +1,3 @@
-# vietnam-hot-news-crawler
 [Đọc Báo Hôm Nay](https://nhaphobietthuquan2.com/doc-bao-hom-nay/) <br/>
 **VietNam Hot News Crawler (Tổng hợp tin tức hot từ báo mạng Việt Nam):**
  - [Tuổi Trẻ](http://tuoitre.vn)
@@ -21,5 +20,5 @@
  - [Xe Hay](https://xehay.vn)
  - [ICT News](https://ictnews.vn)
 
-Cập nhật toàn bộ tin tức mỗi  30 phút, viết bằng GoLang.
+Cập nhật toàn bộ tin tức mỗi  30 phút, viết bằng GoLang.<br/>
 linhvt22@gmail.com
