@@ -7,7 +7,6 @@
  - [Soha](http://soha.vn)
  - [Zing](https://news.zing.vn)
  - [CafeF](http://cafef.vn)
- - [VOZ - f33](https://forums.voz.vn/forumdisplay.php?f=33)
  - [VietnamBiz](https://vietnambiz.vn)
  - [BNews](https://bnews.vn)
  - [VnEconomy](http://vneconomy.vn/)
@@ -18,7 +17,11 @@
  - [VOV Giao Thông](http://vovgiaothong.vn/)
  - [Xe Hay](https://xehay.vn)
  - [ICT News](https://ictnews.vn)
+ - [VOA Tiếng Việt](https://www.voatiengviet.com/)
+ - [VNFinance - Diễn đàn tài chính Việt Nam](http://vnfinance.vn/)
+ - [Tin nhanh chứng khoán](https://tinnhanhchungkhoan.vn/)
+ - [Đầu tư tăng trưởng](https://www.daututangtruong.com.vn/)
 
-[Đọc Báo Hôm Nay](https://nhaphobietthuquan2.com/doc-bao-hom-nay/) <br/>
-Cập nhật toàn bộ tin tức mỗi  30 phút, sử dụng GoLang.<br/>
+[Đọc Báo Hôm Nay - Tin tức mỗi giờ](https://nhaphobietthuquan2.com/doc-bao-hom-nay/) <br/>
+Cập nhật toàn bộ tin tức mỗi  15 phút, sử dụng GoLang làm crawler.<br/>
 linhvt22@gmail.com
