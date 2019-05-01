@@ -18,10 +18,10 @@
  - [Xe Hay](https://xehay.vn)
  - [ICT News](https://ictnews.vn)
  - [VOA Tiếng Việt](https://www.voatiengviet.com/)
- - [VNFinance - Diễn đàn tài chính Việt Nam](http://vnfinance.vn/)
- - [Tin nhanh chứng khoán](https://tinnhanhchungkhoan.vn/)
- - [Đầu tư tăng trưởng](https://www.daututangtruong.com.vn/)
+ - [VNFinance - Diễn Đàn Tài Chính Việt Nam](http://vnfinance.vn/)
+ - [Tin Nhanh Chứng Khoán](https://tinnhanhchungkhoan.vn/)
+ - [Đầu Tư Tăng Trưởng](https://www.daututangtruong.com.vn/)
 
-[Đọc Báo Hôm Nay - Tin tức mỗi giờ](https://nhaphobietthuquan2.com/doc-bao-hom-nay/) <br/>
+[Đọc Báo Hôm Nay - Tin Tức Mỗi Giờ](https://nhaphobietthuquan2.com/doc-bao-hom-nay/) <br/>
 Cập nhật toàn bộ tin tức mỗi  15 phút, sử dụng GoLang làm crawler.<br/>
 linhvt22@gmail.com
